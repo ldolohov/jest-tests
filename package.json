@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-jest",
+  "type": "module",
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {}
+  },
+  "version": "1.0.0",
+  "description": "hexlet-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
